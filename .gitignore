@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.log
+
+venv/
+.env/
+.env.py
+
+# если будут большие данные/аудио
+*.wav
+*.mp3
+*.zip
+
